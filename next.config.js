@@ -4,7 +4,7 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  basePath: "/github-pages",
+  basePath: "serviram.net",
 };
 
 module.exports = nextConfig;
