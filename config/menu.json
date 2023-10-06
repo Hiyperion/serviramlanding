@@ -9,11 +9,11 @@
       "url": "/blogs"
     },
     {
-      "name": "Pricing",
+      "name": "Precios",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
@@ -23,10 +23,10 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "EMPRESA",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Precios",
           "url": "/pricing"
         },
         {
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "Product",
+      "name": "Producto",
       "menu": [
         {
           "text": "Features",
@@ -47,7 +47,7 @@
           "url": "#"
         },
         {
-          "text": "Pricing",
+          "text": "Precio",
           "url": "/pricing"
         }
       ]
@@ -60,11 +60,11 @@
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Política de Privacidad",
           "url": "#"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Terminos y Condiciones",
           "url": "#"
         }
       ]

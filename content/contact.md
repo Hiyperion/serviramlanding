@@ -6,7 +6,7 @@ info:
   title: Why you should contact us!
   description: SERVIRAM es una empresa dedicada a repara compus .
   contacts:
-    - "phone: +593 95 875 9348"
+    - "phone: +593 95 980 4460"
     - "Mail: [info@serviram.net](mailto:info@serviram.net)"
-    - "Calle 1 y 2"
+    - "Calle Manuel Guerrero & Luis Robalino Davila, Cuenca, Ecuador"
 ---
