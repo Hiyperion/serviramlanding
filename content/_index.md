@@ -13,7 +13,7 @@ feature:
   features:
     - name: "Reparacion"
       icon: "/images/code.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "La mejor reparacion"
     - name: "Asesoria"
       icon: "/images/oop.svg"
       content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
