@@ -9,16 +9,8 @@
       "url": "/blogs"
     },
     {
-      "name": "Precios",
-      "url": "/pricing"
-    },
-    {
       "name": "Contacto",
       "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
     }
   ],
   "footer": [

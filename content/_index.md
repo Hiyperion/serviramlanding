@@ -2,7 +2,7 @@
 banner:
   title: REPARACION, ASESORIA Y MANTENIMIENTO
   content: En SERVIRAM encontraras los mejores servicios  <br/> escribenos y estaremos gustosos de atenderte.
-  image: /images/banner-art.svg
+  image: /images/banner-art.jpg
   button:
     label: "Contact Us"
     link: "/contact"
@@ -77,14 +77,14 @@ services:
 # workflow
 workflow:
   title: "La mejor experiencia con nosotros"
-  image: "/images/banner.svg"
+  image: "/images/banner.jpg"
   description: ""
 
 # call_to_action
 call_to_action:
-  title: Listo para empezar con nuestra experiencia?
+  title: Contactanos y experimenta el mejor servicio
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: "/images/cta.svg"
+  image: "/images/cta.jpg"
   button:
     enable: true
     label: "Contáctanos"

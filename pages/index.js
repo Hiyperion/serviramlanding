@@ -147,12 +147,14 @@ const Home = ({ frontmatter }) => {
           )}
           {markdownify(workflow.description, "p", "mt-3")}
         </div>
-        <Image
-          src={workflow.image}
-          alt="workflow image"
-          width={1920}
-          height={296}
-        />
+        <div className="flex items-center justify-center">
+          <Image
+            src={workflow.image}
+            alt="workflow image"
+            width={1080}
+            height={296}
+          />
+        </div>
       </section>
 
       {/* Cta */}
