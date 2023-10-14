@@ -114,7 +114,7 @@ const Home = ({ frontmatter }) => {
                   }`}
                 >
                   <h2 className="font-bold leading-[40px]">{service?.title}</h2>
-                  <p className="mb-2 mt-4">{service?.content}</p>
+                  <p className="mb-2 mt-4 text-justify">{service?.content}</p>
                   {service.button.enable && (
                     <Link
                       href={service?.button.link}
