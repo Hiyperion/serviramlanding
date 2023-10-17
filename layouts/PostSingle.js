@@ -27,7 +27,7 @@ const PostSingle = ({ frontmatter, content, mdxContent }) => {
               )}
               {markdownify(title, "h1", "h2 mb-6 mt-6 text-left")}
 
-              <div className="content mb-16 text-left">
+              <div className="content mb-16 text-justify">
                 <MDXRemote {...mdxContent} components={shortcodes} />
               </div>
             </article>
