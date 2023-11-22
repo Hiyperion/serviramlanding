@@ -30,7 +30,7 @@ const Posts = ({ posts }) => {
                 {posts[0].frontmatter.title}
               </Link>
             </h2>
-            <p className="text-text">
+            <p className="text-justify text-text">
               {plainify(
                 posts[0].content?.slice(0, Number(summary_length)),
                 "div"
