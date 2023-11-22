@@ -1,152 +1,59 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "Generación de imagenes con inteligencia artificial"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+image: "/images/cyberpunk-bar-dalle.png"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
-##### Heading example
-
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+🤯✨ Rompiendo Barreras Creativas: DALL-E, MidJourney y Stable Diffusion Transforman la Generación de Imágenes 🖼️.
 
 ---
 
-##### Emphasis
+#### Introducción
 
-The emphasis, aka italics, with _asterisks_ or _underscores_.
+En un mundo impulsado por la innovación, la creación de imágenes con inteligencia artificial está emergiendo como un faro de creatividad y versatilidad. La capacidad de las máquinas para no solo replicar, sino también concebir imágenes que desafían los límites de la imaginación humana está revolucionando industrias que van desde el arte y el diseño hasta la publicidad y la cinematografía. Tres tecnologías en particular están liderando esta revolución, y cada una de ellas aporta un enfoque único a la generación de imágenes.
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+La combinación de herramientas avanzadas como DALL-E, MidJourney y Stable Diffusion está allanando el camino hacia una era en la que la inteligencia artificial y la creatividad humana se unen en una simbiosis única. En este viaje hacia lo desconocido, exploraremos cómo estas tecnologías están forjando un futuro en el que cada pixel es un pincelazo de innovación. En un contexto donde la creatividad y la tecnología convergen, estas tres tecnologías se erigen como pilares que permiten a artistas, diseñadores y creadores de contenido explorar un mundo de posibilidades ilimitadas y dar vida a sus visiones de una manera nunca antes vista.
 
 ---
 
-##### Link
+##### DALL-E 3
 
-[I'm an inline-style link](https://www.google.com)
+Imagina que puedes describir en palabras una imagen que tienes en mente y que una computadora pueda generar esa imagen. Eso es exactamente lo que DALL·E 3, una creación de OpenAI, puede hacer. Este programa de IA se basa en un modelo de transformador GPT-3 altamente avanzado con más de 10 mil millones de parámetros de entrenamiento. Puedes pedirle a DALL·E 3 que cree imágenes a partir de descripciones textuales, y te sorprenderá con su capacidad para interpretar lenguaje natural y transformarlo en arte visual. La mejor parte es que DALL·E 3 ofrece una versión gratuita a través de Bing Chat para que cualquiera pueda explorar sus capacidades.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Aquí un ejemplo de una imagen creada en bing con la tecnología DALL-E 3:
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+![service](/images/cyberpunk-bar-dalle.png "service")
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
+link: [Bing AI image creator](https://www.bing.com/create)
 
 ---
 
-##### TREST
+##### Stable Diffusion
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+Si estás buscando una tecnología que perfeccione gradualmente las imágenes a medida que las generas, Stable Diffusion es la elección ideal. Esta tecnología funciona con un modelo de texto a imagen que usa un codificador de texto CLIP ViT-L/14 congelado para ajustar el proceso de creación de imágenes. Comienza con una imagen en blanco y, a través de un proceso de "difusión" en tiempo real, mejora progresivamente la imagen hasta que se ajusta por completo a la descripción de texto proporcionada. Lo mejor es que Stable Diffusion también ofrece una versión gratuita, lo que lo hace accesible para la mayoría de las personas.
 
----
+Aquí un ejemplo de una imagen creada en stable difussion:
 
-##### Ordered List
+![service](/images/cyberpunk-bar-stable.png "service")
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+link: [Stable Diffusion image creator](https://stablediffusionweb.com/)
 
 ---
 
-##### Unordered List
+##### Midjourney
 
-- List item
-- List item
-- List item
-- List item
-- List item
+Si tienes un enfoque artístico y deseas que tus imágenes reflejen estilos artísticos reales, Midjourney es la tecnología adecuada. Esta herramienta de IA toma indicaciones de texto del usuario y, con base en algoritmos de aprendizaje automático, genera imágenes únicas. Su especialidad radica en crear entornos artísticos, particularmente escenas de fantasía y ciencia ficción, con una iluminación espectacular que hace que sus creaciones parezcan sacadas de arte conceptual de videojuegos. Sin embargo, en el caso de Midjourney, la versión gratuita a menudo está saturada, lo que significa que para un acceso más fluido y completo, es necesario realizar un pago.
 
----
+Aquí un ejemplo de una imagen creada en midjourney:
 
-##### Code and Syntax Highlighting
+![service](/images/cyberpunk-city.png "service")
 
-This is an `Inline code` sample.
+link: [Midjourney image creator](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+Sin embargo, estas tres tecnologías ofrecen distintas ventajas y desventajas en el ámbito de la creación de imágenes. DALL·E 2 y Stable Diffusion proporcionan versiones gratuitas, lo que las hace altamente accesibles a un público amplio. Esto significa que cualquier persona puede experimentar y beneficiarse de su potencial creativo sin costo alguno.
 
-```python
-s = "Python syntax highlighting"
-print s
-```
+Por otro lado, Midjourney, conocida por su enfoque artístico, también se erige como una excelente herramienta. Sin embargo, su versión gratuita a menudo está saturada debido a su popularidad, lo que puede limitar la experiencia del usuario. Para disfrutar plenamente de lo que Midjourney tiene para ofrecer, es necesario optar por una suscripción paga.
 
----
-
-##### Blockquote
-
-> This is a blockquote example.
-
----
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-##### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-##### Images
-
-![service](/images/service-slide-1.png "service")
-
----
-
-##### Youtube video
-
-<YoutubePlayer id="C0DPdy98e4c" title="YouTube Video" />
+Estas tecnologías, en conjunto, prometen transformar el mundo de la creación de imágenes, ofreciendo un vistazo emocionante al futuro del arte y la expresión visual.
