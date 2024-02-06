@@ -1,6 +1,6 @@
 import config from "@config/config.json";
 import { markdownify } from "@lib/utils/textConverter";
-
+import Link from "next/link";
 const Contact = ({ data }) => {
   const { frontmatter } = data;
   const { title, info } = frontmatter;
@@ -9,9 +9,9 @@ const Contact = ({ data }) => {
   return (
     <section className="section">
       <div className="container">
-        {markdownify(title, "h1", "text-center font-normal")}
-        <div className="section row pb-0">
-          <div className="col-12 md:col-6 lg:col-7">
+        {/* {markdownify(title, "h1", "text-center font-normal")} */}
+        <div className="section row pb-0 " style={{display:'flex', justifyContent:'center'}}  >
+          {/* <div className="col-12 md:col-6 lg:col-7">
             <form
               className="contact-form"
               method="POST"
@@ -55,10 +55,10 @@ const Contact = ({ data }) => {
                 Send Now
               </button>
             </form>
-          </div>
-          <div className="content col-12 md:col-6 lg:col-5">
-            {markdownify(info.title, "h4")}
-            {markdownify(info.description, "p", "mt-4")}
+          </div> */}
+          <div className=" content col-12 md:col-6 lg:col-5">
+            {markdownify(info.title, "h4", "text-center font-normal")}
+            {markdownify(info.description, "p", "mt-4 text-justify")}
             <ul className="contact-list mt-5">
               {info.contacts.map((contact, index) => (
                 <li key={index}>
@@ -66,6 +66,12 @@ const Contact = ({ data }) => {
                 </li>
               ))}
             </ul>
+            <Link
+                className="btn btn-primary mt-4"
+                href="https://api.whatsapp.com/send?phone=%2B593987247132&data=ARBMUboWv3KJQ5ntBEqgDGzFfQdxaFQ2oQ2zOhVku7QcMBWlU7slr5avQ0Ba4U4R2E3IOO_qgPo6E2OK4iDqVgo0ZdOwECrIY4tSMYIXfBx_bjHf72THja3uPd3BRc3uJ0bb8xV6LD-Vk25PjIkhg2qxVA&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR1gAzoTtFWK50PwGGF9B2pNenIGMnKveh-YYlW8VlyjVqdv8D9s7J900_E"
+              >
+                CONTACTAR
+              </Link>
           </div>
         </div>
       </div>

@@ -3,10 +3,10 @@ title: "Contact Us"
 layout: "contact"
 draft: false
 info:
-  title: Why you should contact us!
-  description: SERVIRAM es una empresa dedicada a repara compus .
+  title: INFORMACIÓN DE CONTACTO 
+  description: En SERVIRAM estaremos gustosos de atender tus necesidades, puedes escribirnos a nuestro whatsapp o al correo mostrado a continuación, el botón CONTACTAR te lleva directamente a nuestro whatsapp.
   contacts:
-    - "phone: +593 95 980 4460"
-    - "Mail: [serviramcompu@gmail.com](mailto:serviramcompu@gmail.com)"
-    - "Calle Manuel Guerrero & Luis Robalino Davila, Cuenca, Ecuador"
+    - "Teléfono: +593 95 980 4460"
+    - "Correo: [serviramcompu@gmail.com](mailto:serviramcompu@gmail.com)"
+    - "Dirección: Calle Manuel Guerrero & Luis Robalino Davila, Cuenca, Ecuador"
 ---

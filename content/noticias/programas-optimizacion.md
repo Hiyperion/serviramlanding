@@ -1,5 +1,5 @@
 ---
-title: "Eleva el Rendimiento de tu Computadora: Descubre los Mejores Programas de Optimización"
+title: "ELEVA EL RENDIMIENTO DE TU COMPUTADORA: DESCUBRE LOS MEJORES PROGRAMAS DE OPTIMIZACIÓN"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
 image: "/images/repararpc.jpg"
 date: 2024-01-02T05:00:00Z

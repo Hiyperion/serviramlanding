@@ -15,50 +15,32 @@
   ],
   "footer": [
     {
-      "name": "EMPRESA",
+      "name": "SERVIRAM",
       "menu": [
         {
-          "text": "Precios",
-          "url": "/pricing"
+          "text": "REPARACIÓN",
+          "url": "/"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "ASESORIA",
+          "url": "/"
+        },
+        {
+          "text": "MANTENIMIENTO",
+          "url": "/"
         }
       ]
     },
     {
-      "name": "Producto",
+      "name": "",
       "menu": [
-        {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Precio",
-          "url": "/pricing"
-        }
+        
       ]
     },
     {
-      "name": "Support",
+      "name": "",
       "menu": [
-        {
-          "text": "FAQ",
-          "url": "/faq"
-        },
-        {
-          "text": "Política de Privacidad",
-          "url": "#"
-        },
-        {
-          "text": "Terminos y Condiciones",
-          "url": "#"
-        }
+       
       ]
     }
   ]

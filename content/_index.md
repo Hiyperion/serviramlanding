@@ -32,43 +32,41 @@ feature:
 
 # services
 services:
-  - title: "Una empresa dedicada a la tecnología"
+  - title: "UNA EMPRESA DEDICADA A LA TECNOLOGÍA"
     content: "Somos una destacada empresa especializada en la reparación, asesoría y mantenimiento de computadoras. Con años de experiencia en el campo de la tecnología, nuestro equipo altamente capacitado está comprometido en brindar soluciones eficientes y confiables para todas tus necesidades informáticas. Ya sea que necesites una reparación rápida y precisa, asesoramiento experto en hardware o software, o mantenimiento preventivo para mantener tus sistemas en óptimas condiciones, SERVIRAM es tu socio confiable en el mundo digital. Nuestra dedicación a la excelencia y el servicio al cliente nos distingue como la elección ideal para todas tus preocupaciones tecnológicas."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/serviramphoto1.png"
+      - "/images/serviramphoto2.png"
+      
     button:
       enable: true
       label: Más información
       link: /contact
 
-  - title: "Los mejores precios"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "LOS MEJORES PRECIOS"
+    content: "Descubre en SERVIRAM los precios más competitivos del mercado para servicios de reparación, mantenimiento y asesoría tecnológica. Nos enorgullece ofrecer soluciones asequibles sin comprometer la calidad, garantizando un rendimiento excepcional para tus dispositivos. Confía en SERVIRAM para optimizar tu tecnología con tarifas imbatibles."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/serviramphoto6.png"
     button:
       enable: true
       label: Más información
       link: /contact
 
-  - title: "Nuestras estadisticas son las mejores"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "COMPROMISO CON LA EXCELENCIA TÉCNICA"
+    content: "SERVIRAM se destaca por su compromiso con la excelencia técnica en cada servicio. Los expertos altamente capacitados y la atención meticulosa a los detalles garantizan que cada dispositivo que pasa por nuestras manos reciba el más alto nivel de cuidado y rendimiento. Esta temática resalta la calidad técnica y el compromiso con la satisfacción del cliente."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/serviramphoto3.png"
+      - "/images/serviramphoto4.png"
+      - "/images/serviramphoto5.png"
     button:
       enable: true
       label: Más información
       link: /contact
 
-  - title: "Una compañia que se diferencia"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "INNOVACIÓN Y ACTUALIZACIÓN CONSTANTE"
+    content: "SERVIRAM se posiciona como líder en la industria al adoptar tecnologías de vanguardia y técnicas innovadoras en cada servicio. La empresa se compromete a mantenerse al día con las últimas tendencias tecnológicas y métodos de reparación, asegurando que los clientes experimenten lo último en eficiencia y rendimiento para sus dispositivos. Esta temática destaca la actitud progresista y la búsqueda constante de la excelenci"
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/serviramphoto6.png"
     button:
       enable: true
       label: Más información
@@ -76,17 +74,17 @@ services:
 
 # workflow
 workflow:
-  title: "La mejor experiencia con nosotros"
+  title: "EXPERIMENTA UN SERVICIO EXCELENTE CON NOSOTROS"
   image: "/images/banner.jpg"
   description: ""
 
 # call_to_action
 call_to_action:
-  title: Contactanos y experimenta el mejor servicio
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: CONTACTANOS Y COMPRUEBALO 
+  content: ¡Conéctate con Nosotros y Descubre la Diferencia! En SERVIRAM, estamos listos para brindarte servicios tecnológicos excepcionales. Contáctanos para experimentar un cuidado de dispositivos de primera clase, asesoría experta y soluciones innovadoras. Tu satisfacción es nuestra prioridad. ¡Hazlo ahora y descubre por qué SERVIRAM es tu mejor opción en el mundo de la tecnología!
   image: "/images/cta.jpg"
   button:
     enable: true
     label: "Contáctanos"
-    link: "/contact"
+    link: "https://api.whatsapp.com/send?phone=%2B593987247132&data=ARBMUboWv3KJQ5ntBEqgDGzFfQdxaFQ2oQ2zOhVku7QcMBWlU7slr5avQ0Ba4U4R2E3IOO_qgPo6E2OK4iDqVgo0ZdOwECrIY4tSMYIXfBx_bjHf72THja3uPd3BRc3uJ0bb8xV6LD-Vk25PjIkhg2qxVA&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR1gAzoTtFWK50PwGGF9B2pNenIGMnKveh-YYlW8VlyjVqdv8D9s7J900_E"
 ---

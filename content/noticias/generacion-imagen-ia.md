@@ -1,5 +1,5 @@
 ---
-title: "Generación de imagenes con inteligencia artificial"
+title: "GENERACIÓN DE IMÁGENES CON INTELIGENCIA ARTIFICIAL"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
 image: "/images/cyberpunk-bar-dalle.png"
 date: 2022-08-04T05:00:00Z
