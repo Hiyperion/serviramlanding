@@ -7,6 +7,9 @@
     {
       "name": "Noticias",
       "url": "/noticias"
+    },{
+      "name": "Consejos y Tips",
+      "url": "/tips"
     },
     {
       "name": "Contacto",

@@ -12,7 +12,9 @@
   "settings": {
     "pagination": 4,
     "summary_length": 200,
-    "blog_folder": "noticias"
+    "blog_folder": "noticias",
+    "tips_folder": "tips"
+
   },
 
   "nav_button": {
